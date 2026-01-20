@@ -11,22 +11,25 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 2/2 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+At least one image with descriptive alt text
+Multiple pages with appropriate navigation between them
+Links to external pages
 
 
 (b) CSS features
-
+Modifying link color, text color, and additional colors to be more appealing.
+Adding custom fonts from Google fonts, with fallbacks.
 
 
 (c) Advanced features
@@ -43,11 +46,12 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-
+In addition to class resources (slides, recordings), I made use of W3schools (w3schools.com) explanations regarding various HTML tags. Furthermore, I  did use generative AI to query on the correctness of my code in addition to asking it to help clarify certain aspects of the assignment, such as what semantic code design is.
+I also used code completion in regards to coding this as I have gemini enabled in the environnment I developed my portfolio, which was VSCode. I additionally queried it to do certain tasks I was not familiar with, such as helping me connect it to the GitHub repository and run a preview of the portfolio that I could see and test. 
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+I did not consult other classmates about this assignment at all.
 
 
 7. Is there anything special we need to know in order to run your code?
