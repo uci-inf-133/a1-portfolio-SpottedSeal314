@@ -49,6 +49,10 @@ Adding custom fonts from Google fonts, with fallbacks.
 In addition to class resources (slides, recordings), I made use of W3schools (w3schools.com) explanations regarding various HTML tags. Furthermore, I  did use generative AI to query on the correctness of my code in addition to asking it to help clarify certain aspects of the assignment, such as what semantic code design is.
 I also used code completion in regards to coding this as I have gemini enabled in the environnment I developed my portfolio, which was VSCode. I additionally queried it to do certain tasks I was not familiar with, such as helping me connect it to the GitHub repository and run a preview of the portfolio that I could see and test. 
 
+I used this tutorial to make my home page, altering it to fit my own specifications.
+https://www.w3schools.com/howto/howto_css_hero_image.asp
+
+I prompted AI over common button css choices, and chose my favorite out of several iterations, also altering it to suit my more favored color choices.
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 I did not consult other classmates about this assignment at all.
