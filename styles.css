@@ -5,7 +5,8 @@
   box-sizing: border-box;
 }
 
-html, body {
+html,
+body {
   width: 100%;
   margin: 0;
   padding: 0;
@@ -15,11 +16,11 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #000000;
+  background-color: #add8e6;
 }
 
 
-/* Hero Image */
+/* Background Image */
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/suit-photo.jpg');
   height: 100vh;
@@ -44,11 +45,17 @@ h1 {
   font-family: 'Teko', sans-serif;
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Teko', sans-serif;
   color: #0B2545;
 }
 
 p {
+  font-family: 'Red Hat Text', sans-serif;
   color: #2C3E50;
 }
 
@@ -56,13 +63,13 @@ p {
   font-size: 3em;
   margin: 0;
   margin-bottom: 10px;
-  color:rgba(255, 245, 238, 0.85)
+  color: rgba(255, 245, 238, 0.85)
 }
 
 .hero-text p {
   font-size: 1.5em;
   margin-bottom: 30px;
-  color:rgb(200, 200, 200, 0.85)
+  color: rgb(200, 200, 200, 0.85)
 }
 
 .portfolio-btn {
@@ -88,7 +95,10 @@ p {
 }
 
 /* Button Styles */
-button, a[role="button"], input[type="submit"], input[type="button"] {
+button,
+a[role="button"],
+input[type="submit"],
+input[type="button"] {
   padding: 12px 30px;
   background-color: #007bff;
   color: white;
@@ -101,12 +111,18 @@ button, a[role="button"], input[type="submit"], input[type="button"] {
   display: inline-block;
 }
 
-button:hover, a[role="button"]:hover, input[type="submit"]:hover, input[type="button"]:hover {
+button:hover,
+a[role="button"]:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover {
   background-color: #0056b3;
   transform: translateY(-2px);
 }
 
-button:active, a[role="button"]:active, input[type="submit"]:active, input[type="button"]:active {
+button:active,
+a[role="button"]:active,
+input[type="submit"]:active,
+input[type="button"]:active {
   transform: translateY(0);
 }
 
@@ -125,4 +141,8 @@ a:hover {
   background-color: #add8e6;
 }
 
-/* Add your custom styles below */
+.card {
+  margin-bottom: 20px;
+  border-radius: 30px;
+  background-color: white;
+}

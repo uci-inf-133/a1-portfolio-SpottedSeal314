@@ -42,7 +42,7 @@ Adding custom fonts from Google fonts, with fallbacks.
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+Around 8 hours, given all the time I spent looking at other sources, prompting, and taking breaks to make sure I understood the material.
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
@@ -51,6 +51,8 @@ I also used code completion in regards to coding this as I have gemini enabled i
 
 I used this tutorial to make my home page, altering it to fit my own specifications.
 https://www.w3schools.com/howto/howto_css_hero_image.asp
+
+Prompted AI to help simplify what I was reading at this link (https://getbootstrap.com/docs/4.5/components/navbar/) so I could simplify it for my own purposes as a navbar.
 
 I prompted AI over common button css choices, and chose my favorite out of several iterations, also altering it to suit my more favored color choices.
 
