@@ -5,16 +5,26 @@
   box-sizing: border-box;
 }
 
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333;
+  overflow: hidden;
 }
+
 
 /* Hero Image */
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/hero.jpg');
-  height: 500px;
+  height: 100%;
+  width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -33,6 +43,34 @@ body {
 .hero-text h1 {
   font-size: 3em;
   margin: 0;
+  margin-bottom: 10px;
+}
+
+.hero-text p {
+  font-size: 1.5em;
+  margin-bottom: 30px;
+}
+
+.portfolio-btn {
+  padding: 15px 40px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.portfolio-btn:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px);
+}
+
+.portfolio-btn:active {
+  transform: translateY(0);
 }
 
 /* Button Styles */
