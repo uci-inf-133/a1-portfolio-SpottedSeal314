@@ -23,8 +23,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (a) Basic features
 At least one image with descriptive alt text
+Apropriate headings and paragraph text
 Multiple pages with appropriate navigation between them
-Links to external pages
 
 
 (b) CSS features
