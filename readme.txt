@@ -38,7 +38,8 @@ Navigation bar
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-
+I did not ignore any of the major warnings or errors brought up by AChecker, however I did ignore the many potential problems. This is because they were not posed as genuine problems, but possibilities. As such, it did not 
+seem like a good use of my time to try and debug the many hundred potential problems for issues that did not seem feasible or reasonable.
 
 
 4. How long, in hours, did it take you to complete this assignment?
@@ -63,5 +64,5 @@ I did not consult other classmates about this assignment at all.
 
 
 7. Is there anything special we need to know in order to run your code?
-I do not believe so, but perhaps you will need to download the images I am using? I am unfortunately not familiar. I did use a script from bootstrap
-in order to make my navbar, but I believe it should run. 
+I do not believe so, but perhaps you will need to download the images I am using? I am unfortunately not familiar. Similarly, downloading my resume may be necessary to run the html correctly. I did make sure to enclose the relevant files.
+ I did use a script from bootstrap in order to make my navbar, but I believe it should run. 
