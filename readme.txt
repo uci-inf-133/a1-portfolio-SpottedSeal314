@@ -64,4 +64,4 @@ I did not consult other classmates about this assignment at all.
 
 7. Is there anything special we need to know in order to run your code?
 I do not believe so, but perhaps you will need to download the images I am using? I am unfortunately not familiar. I did use a script from bootstrap
-in order to make my navbar, but I believe it should run. I additionally tried to make a mailto link, but unfortunately it is still not working.
+in order to make my navbar, but I believe it should run. 
